@@ -4,6 +4,7 @@ bl_info = {
     'blender': (2, 80, 0),
     'category': 'Import-Export',
     'location': 'File > Export > Picocad',
+    'wiki_url': 'https://github.com/davabase/blender_picocad',
     'author': 'davabase',
 }
 

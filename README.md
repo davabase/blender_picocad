@@ -35,7 +35,7 @@ You can find the exporter under File > Export > Picocad.
 * If you set a world color in the scene tab, the color will be saved to the picocad file.
 * The filename of your Blender project is used to name the picocad project.
 
-Note: picocad is extremely resource limited attempting to export meshes with many faces, >100, will likely slow down or crash the program.
+Note: picocad is extremely resource limited, attempting to export meshes with many faces, >100, will likely slow down or crash the program.
 
 ### License
 The code in this repo is CC0, public domain.
